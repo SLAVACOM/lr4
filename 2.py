@@ -11,6 +11,4 @@ def gcd(num1, num2):
     return gcd(num1 - num2, num2)
 
 
-print("Результат",gcd(num1, num2))
-
-
+print("Результат", gcd(num1, num2))
