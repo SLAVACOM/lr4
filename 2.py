@@ -12,3 +12,5 @@ def gcd(num1, num2):
 
 
 print("Результат",gcd(num1, num2))
+
+
